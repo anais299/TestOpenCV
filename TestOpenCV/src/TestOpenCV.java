@@ -9,4 +9,3 @@ public class TestOpenCV {
 }
 
 // ajout commentaire
-//test dcvsducvdscvdscgvsdhvc
