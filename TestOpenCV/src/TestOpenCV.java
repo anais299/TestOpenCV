@@ -7,3 +7,5 @@ public class TestOpenCV {
         System.out.println(m.dump());
     }
 }
+
+// ajout commentaire
